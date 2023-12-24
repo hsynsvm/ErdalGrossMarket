@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\ErdalGrossMarket\bin\Debug\ErdalGrossMarket.exe.config
+C:\Users\ramse\source\repos\ErdalGrossMarket\bin\Debug\ErdalGrossMarket.exe
+C:\Users\ramse\source\repos\ErdalGrossMarket\bin\Debug\ErdalGrossMarket.pdb
+C:\Users\ramse\source\repos\ErdalGrossMarket\obj\Debug\ErdalGrossMarket.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\ErdalGrossMarket\obj\Debug\ErdalGrossMarket.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\ErdalGrossMarket\obj\Debug\ErdalGrossMarket.exe
+C:\Users\ramse\source\repos\ErdalGrossMarket\obj\Debug\ErdalGrossMarket.pdb
