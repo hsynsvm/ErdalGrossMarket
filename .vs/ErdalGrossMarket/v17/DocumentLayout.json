@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ramse\\source\\repos\\ErdalGrossMarket\\",
+  "WorkspaceRootPath": "C:\\Users\\ramse\\Documents\\GitHub\\ErdalGrossMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41B39200-931B-4F6A-9B02-7FC7E723C720}|ErdalGrossMarket.csproj|c:\\users\\ramse\\source\\repos\\erdalgrossmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41B39200-931B-4F6A-9B02-7FC7E723C720}|ErdalGrossMarket.csproj|c:\\users\\ramse\\documents\\github\\erdalgrossmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41B39200-931B-4F6A-9B02-7FC7E723C720}|ErdalGrossMarket.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41B39200-931B-4F6A-9B02-7FC7E723C720}|ErdalGrossMarket.csproj|c:\\users\\ramse\\source\\repos\\erdalgrossmarket\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41B39200-931B-4F6A-9B02-7FC7E723C720}|ErdalGrossMarket.csproj|c:\\users\\ramse\\documents\\github\\erdalgrossmarket\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41B39200-931B-4F6A-9B02-7FC7E723C720}|ErdalGrossMarket.csproj|solutionrelative:urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\ErdalGrossMarket\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Documents\\GitHub\\ErdalGrossMarket\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ramse\\source\\repos\\ErdalGrossMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\Documents\\GitHub\\ErdalGrossMarket\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwBYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-23T13:28:08.873Z",
               "EditorCaption": ""
@@ -43,11 +43,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Urun.cs",
-              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\ErdalGrossMarket\\Urun.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Documents\\GitHub\\ErdalGrossMarket\\Urun.cs",
               "RelativeDocumentMoniker": "Urun.cs",
-              "ToolTip": "C:\\Users\\ramse\\source\\repos\\ErdalGrossMarket\\Urun.cs",
+              "ToolTip": "C:\\Users\\ramse\\Documents\\GitHub\\ErdalGrossMarket\\Urun.cs",
               "RelativeToolTip": "Urun.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-23T13:28:51.521Z",
               "EditorCaption": ""
